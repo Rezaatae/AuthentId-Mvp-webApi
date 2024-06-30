@@ -1,5 +1,5 @@
 ## AuthentID Backend Api
-Backend layer of the AuthentID handling API operations.
+Backend layer for AuthentID handling API operations.
 
 ### Technical details
 - A .NET WebApi with custom API endpoints enabling AuthentID to access databases and perform databse operations. 
